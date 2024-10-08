@@ -18,7 +18,7 @@ https://github.com/telzo2000/cool640lp/tree/main/firmware
 
 ## build guide
 
-### sumary
+### summary
 
 1 Diode soldering
 <br>
