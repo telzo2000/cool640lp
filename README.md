@@ -13,11 +13,31 @@ This keyboard use Ble Micro Pro,run qmk_firmware.
 
 ## firmware
 
+https://github.com/telzo2000/cool640lp/tree/main/firmware
 
 
 ## build guide
 
+### sumary
 
+1 Diode soldering
+<br>
+2 Switch socket soldering
+<br>
+3  Battery Patrs,etc soldering
+<br>
+4 Ble Micro Pro and conthrough soldering
+<br>
+5 Install firmware
+<br>
+6 Fix the switch plate with screws
+<br>
+7 Insert the key switch
+<br>
+8 Fix the bottom case with screws.
+<br>
+9 Complete
+<br>
 
 ## Parts list
 
