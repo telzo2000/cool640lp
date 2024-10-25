@@ -13,3 +13,10 @@ If the switch you use is Deep Sea silent mini,
 <br>
 You choose cool640lp_seitchplate_for_ds.stl.
 <br>
+
+## bottomcase
+
+Bottomcase has two desigens.
+<br>
+You can choose whichever bottom case you like and use it.
+<br>
