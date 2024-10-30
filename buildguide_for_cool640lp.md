@@ -116,6 +116,15 @@ Insert the pro micro into the con-through so that the side with the parts on it 
 pro microの部品が載っている方がPCBに面するように、コンスルーに差し込んでください。もし、pro microがコンスルーから外れやすいときははんだ付けをお勧めします。ただし、3Dプリンタのボトムプレートの構造上、外れにくいと思うので、はんだ付け不要です。
 <br>
 
+Note
+<br>
+Regarding the PCB of ver.1.0, please correct the part in the image below.
+<br>
+ver.1.0のPCBについて、次の画像の部分を修正してください。
+<br>
+
+![](img/img00006.jpg)
+
 ### 6a Install firmware （BLE Micro Pro）
 
 
