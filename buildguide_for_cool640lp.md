@@ -140,9 +140,12 @@ There is a hex file [here](https://github.com/telzo2000/cool640lp/tree/main/firm
 
 ### 7 Fix the switch plate 
 
+![](img/img00002.jpg)
+
 Insert the M2 screws (6mm) into the 3D printed switch plate and the PCB in that order, and secure them with M2 spacers (6mm) from the bottom of the PCB.
 <br>
 3Dプリントのスイッチプレート、PCBの順でM2ネジ（6mm）の順で差し込み、PCB下面からM2スペーサー（6mm）で固定します。
+
 <br><br>
 
 
@@ -152,6 +155,9 @@ Insert the key switch from the switch plate side.
 <br>
 スイッチプレート側からキースイッチを差し込んでいきます。
 <br>
+
+![](img/img00005.jpg)
+
 <br>
 
 
@@ -168,9 +174,13 @@ Attach your favorite keycaps and you're done.
 <br>
 お気に入りのキーキャップをつけて完成です。
 <br>
+![](img/img00004.jpg)
+
 
 <br>
 Welcome to the world of the best keyboards.
 <br>
 最高のキーボードの世界にようこそ。
 <br>
+
+![](img/img00003.jpg)
