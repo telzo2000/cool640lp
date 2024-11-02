@@ -4,6 +4,11 @@
 
 The two switches have different claw widths.
 <br>
+If you use JLCPCB 3D printing survice,
+<br>
+You shoose
+cool640lp_switchplate_for_jlcpcb_rezin.stl
+<br>
 
 If the switch you use is Lofree ghost,
 <br>
