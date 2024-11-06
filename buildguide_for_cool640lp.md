@@ -17,6 +17,8 @@ Diodes have polarity, so be careful about the direction in which they are instal
 ダイオードには極性がありますので、取り付ける向きに注意してください。
 <br>
 
+[ダイオード（SMD)のはんだ付けの動画](https://youtu.be/ODk16bd4XkA)
+
 
 ### 2 Switch socket soldering
 
