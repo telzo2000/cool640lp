@@ -49,7 +49,7 @@ https://github.com/telzo2000/cool640lp/blob/main/buildguide_for_cool640lp.md
 |番号|名前|数|備考|調達先|参考価格（送料込）|<br>
 |1|PCB|1|40key|[elecrow](https://www.elecrow.com)<br>[JLCPCB](https://jlcpcb.com)<br>[ALLPCB](https://www.allpcb.com)|５枚で20〜30ドル|<br>
 |2|BLE Micro Pro|1|MCU Board|[遊舎工房](https://shop.yushakobo.jp/products/ble-micro-pro?variant=37665571340449)|4950円|
-|3|Swith socket<br>スイッチソケット|40|cherry MX互換|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
+|3|Swith socket<br>スイッチソケット|40|choc V2|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
 |4|Diode<br>ダイオード|40|SMD|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
 |5|Switch plate|1|3D Print|||
 |6|Bottom case|1|3D Print||
