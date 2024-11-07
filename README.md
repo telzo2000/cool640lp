@@ -59,7 +59,7 @@ https://github.com/telzo2000/cool640lp/blob/main/buildguide_for_cool640lp.md
 |11|Keyswitch<br>キースイッチ|40|お好みで|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
 |12|Keycap<br>キーキャップ|40|1Ux38、1.5Ux2|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
 |13|ボタン電池ホルダー|1|1632|[アリエク](https://ja.aliexpress.com/item/32744211091.html?spm=a2g0o.order_list.order_list_main.10.2aa6585aqrECYV&gatewayAdapt=glo2jpn)<br>|100個で900円ほど|
-|14|水平スライドスイッチ|1||[遊舎工房](https://shop.yushakobo.jp/products/5624?_pos=1&_sid=f65b70e3c&_ss=r)|110円|
+|14|水平スライドスイッチ|1||[秋月電子](https://akizukidenshi.com/catalog/g/g115370/)|30円|
 |15|チップ積層セラミックコンデンサー |1|100μF6.3V F 3216|[秋月電子](https://akizukidenshi.com/catalog/g/g102151/)|10個入り200円|
 
 ※13,14,15は[遊舎工房のこれ](https://shop.yushakobo.jp/products/5623)が最適。
