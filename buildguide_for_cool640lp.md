@@ -80,9 +80,9 @@ PCBの裏面から差し込んで、表面をはんだ付けします。仮固�
 
 
 ### 5a BLE MIcro Pro
-Please prepare two con-through (12 pin 2.5mm) instead of the pin header included with BLE Micro Pro.
+Please prepare two con-through (12 pin 3.5mm) instead of the pin header included with BLE Micro Pro.
 <br>
-ブレマイクロプロ付属のピンヘッダではなく、コンスルー（12ピン 2.5mm）を２つ用意してください。
+ブレマイクロプロ付属のピンヘッダではなく、コンスルー（12ピン 3.5mm）を２つ用意してください。
 
 ![](img/img00028.jpg)
 
@@ -153,9 +153,9 @@ There is a hex file [here](https://github.com/telzo2000/cool640lp/tree/main/firm
 
 ![](img/img00002.jpg)
 
-Insert the M2 screws (6mm) into the 3D printed switch plate and the PCB in that order, and secure them with M2 spacers (6mm) from the bottom of the PCB.
+Insert the M2 screws (4mm) into the 3D printed switch plate and the PCB in that order, and secure them with M2 spacers (3mm) from the bottom of the PCB.
 <br>
-3Dプリントのスイッチプレート、PCBの順でM2ネジ（6mm）の順で差し込み、PCB下面からM2スペーサー（6mm）で固定します。
+3Dプリントのスイッチプレート、PCBの順でM2ネジ（4mm）の順で差し込み、PCB下面からM2スペーサー3mm）で固定します。
 
 <br><br>
 
@@ -174,9 +174,9 @@ Insert the key switch from the switch plate side.
 
 ### 9 Fix the bottom case with screws
 
-Secure the spacer fixed to the bottom plate and PCB with four M2 screws (6mm).
+Secure the spacer fixed to the bottom plate and PCB with four M2 screws (4mm).
 <br>
-ボトムプレートとPCBに固定したスペーサーをM2ネジ（6mm）４本で固定します。
+ボトムプレートとPCBに固定したスペーサーをM2ネジ（4mm）４本で固定します。
 
 
 ### 11 Complete
