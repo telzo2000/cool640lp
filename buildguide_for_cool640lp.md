@@ -103,9 +103,9 @@ If you are not interested in wireless connectivity, you can keep the price low b
 <br>
 もしあなたが無線接続に興味がないのであれば、pro microを使用することで価格を低くすることができます。
 <br><br>
-Please prepare two con-through (12 pin 2.5mm) instead of the pin header included with pro micro.
+Please prepare two con-through (12 pin 3.5mm) instead of the pin header included with pro micro.
 <br>
-pro micro付属のピンヘッダではなく、コンスルー（12ピン 2.5mm）を２つ用意してください。
+pro micro付属のピンヘッダではなく、コンスルー（12ピン 3.5mm）を２つ用意してください。
 <br>
 
 
