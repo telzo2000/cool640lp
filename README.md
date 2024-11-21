@@ -26,8 +26,7 @@ https://github.com/telzo2000/cool640lp/blob/main/buildguide_for_cool640lp.md
 
 2024/11/21　build and writen by @MeriNakamura
 <br>
-https://x.com/MeriNakamura/status/1859256384518541637
-
+https://note.com/merinakamura/n/n6db176bb61fc
 <br>
 
 
