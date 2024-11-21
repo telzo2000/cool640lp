@@ -20,6 +20,18 @@ https://github.com/telzo2000/cool640lp/tree/main/firmware
 
 https://github.com/telzo2000/cool640lp/blob/main/buildguide_for_cool640lp.md
 
+<br>
+
+## build log
+
+2024/11/21　build and writen by @MeriNakamura
+<br>
+https://x.com/MeriNakamura/status/1859256384518541637
+
+<br>
+
+
+
 ### summary
 
 1 Diode soldering
