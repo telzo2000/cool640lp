@@ -38,6 +38,9 @@ Insert the reset switch from the back of the PCB and solder the exposed part.
 <br>
 
 
+[リセットスイッチのはんだ付けの作業動画](https://youtu.be/Pl24Exfh8b8)
+
+
 ### 4 Battery parts soldering(Bluetooth option)
 
 Solder the slide switch first.
@@ -52,6 +55,10 @@ Insert the switch from the back of the PCB with the switch knob facing outward.
 After temporarily fixing it with masking tape, etc., solder the exposed part of the PCB.
 <br>
 マスキングテープなどで仮固定をしてから、PCBの表面に出た部分をはんだ付けします。
+<br>
+
+[スライドスイッチのはんだ付けの作業動画](https://youtu.be/5nkRklibay4)
+
 <br>
 Next, solder the capacitor.
 <br>
@@ -71,12 +78,18 @@ Solder the capacitor, applying solder to the remaining pads.
 残りのパッドにはんだを盛りながら、コンデンサをはんだ付けします。
 Finally, attach the battery holder.
 <br>
+
+[コンデンサのはんだ付け作業の動画](https://youtu.be/8CFiDMtg21s)
+
 最後に、電池ホルダを取り付けます。
 <br>
 Insert it from the back side of the PCB and solder the front side. Using masking tape for temporary fixation will make the work easier.
 <br>
 PCBの裏面から差し込んで、表面をはんだ付けします。仮固定にマスキングテープを使うと作業が簡単になります。
 <br>
+
+[電池ホルダのはんだ付けの作業動画](https://youtu.be/ltA8kcLqso4)
+
 
 
 ### 5a BLE MIcro Pro
