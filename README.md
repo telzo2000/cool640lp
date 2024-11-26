@@ -28,8 +28,10 @@ https://github.com/telzo2000/cool640lp/blob/main/buildguide_for_cool640lp.md
 <br>
 https://note.com/merinakamura/n/n6db176bb61fc
 <br>
-
-
+2024/11/26  build and writen by @kazy_developer
+<br>
+https://note.com/kazy_developer/n/nb938d122a83f?sub_rt=share_sb
+<br>
 
 ### summary
 
