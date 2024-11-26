@@ -73,7 +73,7 @@ https://note.com/merinakamura/n/n6db176bb61fc
 |14|水平スライドスイッチ|1||[秋月電子](https://akizukidenshi.com/catalog/g/g115370/)|30円|
 |15|チップ積層セラミックコンデンサー |1|100μF6.3V F 3216|[秋月電子](https://akizukidenshi.com/catalog/g/g102151/)|10個入り200円|
 
-※13,14,15は[遊舎工房のこれ](https://shop.yushakobo.jp/products/5623)が最適。
+※13,14,15は[遊舎工房の「Primer29/61用電池部品セット（コイン電池」](https://shop.yushakobo.jp/products/5623)が最適。
 
 In addition, you will need a USB cable, etc.
 <br>
